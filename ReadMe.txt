@@ -1,7 +1,7 @@
 Similar projects:
 https://github.com/finkdiff/ATVBrowser-script
 https://github.com/iBaa/PlexConnect
-
+http://forums.plexapp.com/index.php/topic/57831-plex-atv-think-different/
 
 
 ATVBrowser - An ATV2/3 trailer app hack.
