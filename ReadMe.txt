@@ -13,6 +13,9 @@ Docs about Apple TV:
 If you're running 5.0.2 then the location is trailers.apple.com/appletv/application.js
 If you're running 5.2.1 then the location is trailers.apple.com/appletv/us/js/application.js
 
+---------------------------------
+Credits to:
+http://forums.plexapp.com/index.php/user/51394-roidy/
 
 ---------------------------------
 copied from original readme
