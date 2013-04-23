@@ -1,7 +1,7 @@
 Similar projects:
 https://github.com/finkdiff/ATVBrowser-script (node.js with Plex)
 https://github.com/iBaa/PlexConnect (python with Plex)
-http://forums.plexapp.com/index.php/topic/57831-plex-atv-think-different/ (where this code is from)
+http://forums.plexapp.com/index.php/topic/57831-plex-atv-think-different/page-2 (where this code is from)
 
 https://code.google.com/p/hdweb/source/browse/#svn%2FATV
 https://code.google.com/p/appletv/ 让Apple TV直接播放贵国视频
