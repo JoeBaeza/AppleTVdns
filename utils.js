@@ -1,5 +1,5 @@
 const DOMAIN_ATV = "trailers.apple.com";
-const IP_DNS     = "194.168.4.100"; // *********** Change to the address of your ISP's DNS ***********
+const IP_DNS     = "8.8.8.8"; // *********** Change to the address of your ISP's DNS or leave it as is (currently using Google DNS) ***********
 
 function parseRange(str, size) {
     if (str.indexOf(",") != -1) {
