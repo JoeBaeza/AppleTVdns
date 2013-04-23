@@ -1,3 +1,6 @@
+A node.js script for Apple TV DNS hack
+---------------------------------
+
 Similar projects:
 https://github.com/finkdiff/ATVBrowser-script (node.js with Plex)
 https://github.com/iBaa/PlexConnect (python with Plex)
